@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filmNames">
+        <item>Варвары</item>
+        <item>365 дней</item>
+        <item>Веном</item>
+        <item>МГЧД</item>
+        <item>Мстители</item>
+        <item>Черная вдова</item>
+        <item>Бойцовский клуб</item>
+    </string-array>
+</resources>
